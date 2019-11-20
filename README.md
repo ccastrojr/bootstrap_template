@@ -1,4 +1,4 @@
-# BrincandoBootstrap
-Fiz esse projeto de single page responsive apenas para testar minhas habilidades com Bootstrap 4 e passar o tempo no final de semana.
+# Bootstrap Template
+** I did this single page responsive project only to test my skills with Bootstrap 4.
 
-O template implementa responsividade e poderia ser usado em n contextos diferentes, como por exemplo portfólios ou lojas virtuais.
+This template use a lot Bootstrap components and can be used in so many contexts.
